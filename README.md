@@ -1,6 +1,10 @@
-# animation_demo
+# Flutter Animation Demo
 
-A new Flutter application.
+Animation with Flutter application. 
+
+![Flutter Animation Demo](ezgif-5-e93601a37dbb.gif)
+
+
 
 ## Getting Started
 
